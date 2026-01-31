@@ -1,4 +1,4 @@
-# Q-Learning Grid Simulation
+# QLearning Grid Simulation
 Demo: https://www.youtube.com/watch?v=hm42y6WEwmc
 
 ## Overview
