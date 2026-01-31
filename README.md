@@ -3,7 +3,7 @@ Demo: https://www.youtube.com/watch?v=hm42y6WEwmc
 
 ## Overview
 A 2D grid-based simulation where autonomous agents learn to navigate
-towards a target position using Q-learning.
+towards a target position (the origin in this case) using Q-learning.
 
 ## Key Concepts
 - Reinforcement Learning (Q-learning)
